@@ -24,4 +24,4 @@
 
 ## Авторы
 
-* **zzzatoox** - *Initial work* - [zzzatoox](https://github.com/zzzatoox)
+* **zzzatoox** - *LLC-SportsGoods* - [zzzatoox](https://github.com/zzzatoox)
