@@ -1,0 +1,13 @@
+D:\SportsGoods\LLC SportsGoods\bin\Debug\LLC SportsGoods.exe.config
+D:\SportsGoods\LLC SportsGoods\bin\Debug\LLC SportsGoods.exe
+D:\SportsGoods\LLC SportsGoods\bin\Debug\LLC SportsGoods.pdb
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC SportsGoods.csproj.AssemblyReference.cache
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC_SportsGoods.Forms.Admin.AddProductForm.resources
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC_SportsGoods.Forms.CaptchForm.resources
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC_SportsGoods.LoginForm.resources
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC_SportsGoods.Forms.ProductsForm.resources
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC_SportsGoods.Properties.Resources.resources
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC SportsGoods.csproj.GenerateResource.cache
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC SportsGoods.csproj.CoreCompileInputs.cache
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC SportsGoods.exe
+D:\SportsGoods\LLC SportsGoods\obj\Debug\LLC SportsGoods.pdb
